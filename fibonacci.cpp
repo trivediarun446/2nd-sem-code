@@ -15,5 +15,5 @@ int main ()
   int n ; 
   cout<<"enter the nth term of fibonacci series "<<endl ; 
   cin>> n ; 
-  fibo(n);
+  cout<<fibo(n);
 }
