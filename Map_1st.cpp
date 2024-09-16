@@ -65,6 +65,7 @@ int main ()
     //  For accessing whole map using for loop 
 
     // 1st method 
+    // This is also called the range base loop 
     for(auto i : map)
     {
         cout<<i.first<<" "<<i.second<<endl ; 
